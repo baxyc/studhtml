@@ -21,6 +21,10 @@ h6 {
     margin: 0;
 }
 
+a {
+    text-decoration: none;
+}
+
 .card {
     margin: 80px -15px 0;
     display: flex;
@@ -57,4 +61,33 @@ h6 {
     font-style: italic;
     font-weight: 300;
     color: #999;
+}
+
+.link__ht {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.title {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.sub__title {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.sub {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
 }
